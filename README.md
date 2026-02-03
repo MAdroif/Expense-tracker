@@ -117,10 +117,3 @@ Styling & kustomisasi cepat
 Kontribusi
 
 Proyek ini ringkas dan cocok sebagai starting point. Jika ingin kontribusi atau saran fitur baru, buat branch baru, tambahkan deskripsi di PR, dan sertakan demo singkat.
-
-
-Lisensi
-
--
-
-Kontak
